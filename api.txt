@@ -1,0 +1,3 @@
+Serviço que tem acesso a banco de dados
+fetch api faz requisições a apis de terceiros
+api serve de garçon indo ao banco de dados e fazendo a requisição e nos devolvendo

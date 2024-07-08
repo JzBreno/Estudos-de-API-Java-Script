@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#regioes{
+    width: 400px;
+    text-align: center;
+}
+
+#estados{
+    width: 400px;
+    text-align: center;
+}
+
+#municipios{
+    width: 400px;
+    text-align: center;
+}

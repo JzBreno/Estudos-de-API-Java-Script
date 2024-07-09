@@ -4,14 +4,7 @@ Este repositório contém exemplos e estudos sobre o uso de APIs em JavaScript, 
 
 ## Índice
 
-- [Introdução](#introdução)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [APIs Utilizadas](#apis-utilizadas)
-  - [API do IBGEAPI](#api-do-ibgeapi)
-  - [API do ViaCEP](#api-do-viacep)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+![image](https://github.com/JzBreno/Estudos-de-API-Java-Script/assets/88739348/520a83ad-9729-4c6f-bfc2-263e0d79aa04)
 
 ## Introdução
 
